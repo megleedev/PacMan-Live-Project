@@ -76,3 +76,8 @@ The score UI element and functionality was added during this User Story. As in t
 ## Adding Particles, Lights, Sounds, Models, Materials  🎉 
 
 The final tasks on this project were to add the siren background noise and the sound of the Nodes being eaten. 
+
+## Lessons Learned 👀
+
+  ⚪ I should have spent a little bit more time considering an implementation design for the Nodes. While the Node Spwaner and Node Deleter scripts worked, there were issues with the Nodes in the spawn area.<br><br>
+
